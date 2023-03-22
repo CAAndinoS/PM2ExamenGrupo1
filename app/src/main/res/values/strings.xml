@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PM2ExamenGrupo1</string>
+    <string name="map_content_description">Mapa de mi ubicación actual</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
