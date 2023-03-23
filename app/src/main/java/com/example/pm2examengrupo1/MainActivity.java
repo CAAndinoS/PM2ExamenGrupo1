@@ -107,7 +107,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         edtNombre.setText("");
         edtTelefono.setText("");
         edtlatTextView.setText("");
-        edtlatTextView.setText("");
+        edtlongTextView.setText("");
         imageView.setImageResource(0);
     }
 

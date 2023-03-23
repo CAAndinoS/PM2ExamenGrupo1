@@ -30,14 +30,14 @@
 
         <Button
             android:id="@+id/btnActualizar"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="206dp"
+            android:layout_height="61dp"
             android:text="Actualizar Contacto" />
 
         <Button
             android:id="@+id/btnEliminar"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="58dp"
             android:text="Eliminar Contacto" />
     </LinearLayout>
 
